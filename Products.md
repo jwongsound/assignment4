@@ -3,8 +3,6 @@ layout: page
 title: Products & Services
 permalink: products
 ---
-<meta name="description" content="products">
-  <meta name="keywords" content="products, services, goods">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154149731-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
