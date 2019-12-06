@@ -3,6 +3,14 @@ layout: page
 title: Survey & Feedback
 permalink: survey
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154149731-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154149731-1');
+</script>
 <img src="https://images.pexels.com/photos/669614/pexels-photo-669614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="surveys" height="500" width="800">
 
 
