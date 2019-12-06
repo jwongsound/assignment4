@@ -21,7 +21,7 @@
 title: Explorers Academy
 email: admin@explorersacademy.com
 description: >- # this means to ignore newlines until "baseurl:"
-Online resource for students to provide and view feedback to Explorers Academy.
+ Online resource for students to provide and view feedback to Explorers Academy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: explorersacademy
