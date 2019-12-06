@@ -3,6 +3,15 @@ layout: page
 title: Privacy Policy
 permalink: policy
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154149731-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154149731-1');
+</script>
+
   we respect an individual's privacy and will only collect, use, store or disclose your personally identifiable information (“personal information”) in accordance with this Privacy Policy. We recognize every individual's right to privacy and acknowledge our obligation to preserve the confidentiality of personal information. This Privacy Policy applies to our collection, use, storage and disclosure of personal information through our websites, mobile applications. We reserve the right to update this Privacy Policy at any time and such modifications shall be effective immediately.
 
   
