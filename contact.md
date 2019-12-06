@@ -3,6 +3,15 @@ layout: default
 title: Contact
 permalink: Contact
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154149731-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154149731-1');
+</script>
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
