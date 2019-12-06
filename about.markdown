@@ -3,6 +3,15 @@ layout: default
 title: About Us
 permalink: about
 ---
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154149731-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154149731-1');
+</script>
+
 <img src="https://images.pexels.com/photos/1438072/pexels-photo-1438072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="students" height="500" width="800">
 <h2>OUR MISSION:</h2>
 To inspire our customers and those they care about with life-enriching products and experiences.
