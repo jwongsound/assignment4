@@ -8,4 +8,3 @@ layout: home
 
 Explorers Academy is a polytechnic institute in Calgary, Alberta. Explorers Academy offers more than 100 career programs in technology, trades and business. Explorers Academy is looking to create a functional website to allow students that are current, potential or previous students to take surveys and give feedback on products and services we offer.
 
-<a href="https://www.xml-sitemaps.com/download/assignment4jw.netlify.com-8ee2787b3/sitemap.xml?view=1">sitemap</a>
